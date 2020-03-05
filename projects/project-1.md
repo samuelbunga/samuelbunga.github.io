@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Graduate Teaching Assistant, Computational Methods-2
+permalink: projects/TA
 # All dates must be YYYY-MM-DD format!
-date: "May 2019 - Dec 2019"
+date: "Sep 2019 - Apr 2020"
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Python
+  - BioPython
+  - R
+  - Git
+  - Linux Shell Scripting
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
