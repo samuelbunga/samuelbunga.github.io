@@ -5,7 +5,7 @@ image: images/BIDMC.jpg
 title: Research Intern
 permalink: projects/bidmc-harvard
 # All dates must be YYYY-MM-DD format!
-date: 2019-05-19 - 2019-12-19
+date: '`r paste("May 01, 2019. Updated on", Sys.Date())`'
 labels:
   - Perl
   - Python
