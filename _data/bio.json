@@ -64,6 +64,7 @@
         "PHP",
         "R",
         "Linux Shell Scripting",
+        "json"
       ]
     },
      {
@@ -168,15 +169,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Bhasin Lab",
+      "website": "https://bhasinlab.us/scw_page/scwiz.php",
+      "position": "Single Cell Wizard",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-19",
+      "summary": "Single Cell RNA-seq pre/post processing pipeline",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "SCWiz is a comprehensive Single Cell RNA-Seq processing pipeline which is a totally automated platform that can take raw FASTQ files, process them to generate feature barcode matrices and perform pre-processing, data normalization, quality control to differentially expressed genes, annotation of clusters and final visualization",
       ]
     },
     {
