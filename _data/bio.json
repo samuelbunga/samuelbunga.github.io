@@ -66,6 +66,18 @@
         "Linux Shell Scripting",
       ]
     },
+     {
+      "name": "Genomic Data Analysis",
+      "level": "",
+      "keywords": [
+        "Sinlge Cell",
+        "Comparative Genomics",
+        "Genome Assembly",
+        "Transcriptome",
+        "GWAS",
+        "NGS"
+      ]
+    },
     {
       "name": "Frameworks/Libraries",
       "level": "",
@@ -123,22 +135,36 @@
       "endDate": "Present",
       "summary": "with Dr. Chesley Leslin, Northeastern University, MA",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Co-supervise and conduct lab sessions for 30 students and held office hours every week",
+        "Provide comprehensive academic support and mentored students on individual basis",
+        "Conduct and evaluate student quizzes and assignments",
+        "Written Perl/BASH scripts to grade assignments automatically and produce a score card",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Research Intern",
+      "position": "",
+      "website": "",
+      "startDate": "2019-05-01",
+      "endDate": "2019-12-19",
+      "summary": "Bhasin Lab/Harvard Medical School, Boston, MA",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Designed and developed a free open web application (Single Cell Wizard) for processing of Single Cell pair-end raw FASTQ files processed either by following 10X, CelSeq or DropSeq protocols and for single-end SRA files to generate feature-barcode matrices. The generated Matrix file can be taken up for clustering and GEA", ",
+        "Worked to develop 4 in house dependency tools for Single Cell Wizard pipeline like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
+        "Assembled and created a Database for Gene expression markers that define cell types which can be used to annotate clusters of single cells via Gene Set Enrichment Analysis",
+        "Built a workflow to merge up to 30 in house and public Single Cell Datasets of Human and Mice using Seurat",
       ]
-    }
+    },
+    {
+      "company": "Data Analyst",
+      "position": "",
+      "startDate": "2015-04-01",
+      "endDate": "2016-05-01",
+      "summary": "E-Virgin e-commerce, Vishakapatnam, India",
+      "highlights": [
+        "Conducted testing, maintenance and monitoring system process using in house and third-party tools and maintained ongoing relations with vendors, conduct product evaluations, participate in vendor selection, negotiating prices",
+        ]
+    },
   ],
   "volunteer": [
     {
