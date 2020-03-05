@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/BIDMC.jpg
+image: images/bidmc_square.jpg
 title: Research Intern
-permalink: projects/bidmc
+permalink: projects/bhasin_lab
 # All dates must be YYYY-MM-DD format!
 date: '2019-05-01'
 labels:
