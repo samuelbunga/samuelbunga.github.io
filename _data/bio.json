@@ -67,37 +67,61 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks/Libraries",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Pandas",
+        "numpy",
+        "BioConductor",
+        "dplyr",
+        "Seurat"
+        "BioPython",
+        "BioPerl"
+      ]
+    },
+    {
+      "name": "Bioinformatics tools",
+      "level": "",
+      "keywords": [
+        "Cell Ranger(10X)",
+        "GATK",
+        "UMI-Tools",
+        "samtools",
+        "hisat-2",
+        "STAR",
+        "FastP"
+      ]
+    },
+    {
+      "name": "Development tools/Platform",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Vim",
+        "AWS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Northeastern University, MA",
+      "area": "Bioinformatics (expected Spring, 2020)",
+      "studyType": "M.S.",
+      "startDate": "2018-09-07",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Computational Methods-2",
+      "position": "Graduate Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-09-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "with Dr. Chesley Leslin, Northeastern University, MA",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
