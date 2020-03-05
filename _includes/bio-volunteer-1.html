@@ -27,7 +27,7 @@
         {% endif %}
       </div>
       <div class="four wide right aligned column no-bottom">
-        <p class="ui no-bottom"><b>
+        <p class="ui no-bottom">
           {% if entry.startDate %}
           {{ entry.startDate | slice: 0,4 }}
           {% endif %}
@@ -35,13 +35,13 @@
           -
           {% endif %}
           {% if entry.endDate %}
-            {% if entry.endDate == "Present" %}
+            {% if entry.endDate == "null" %}
               {{ entry.endDate | slice: 0,4 }}
             {% else %}
               {{ entry.endDate }}
             {% endif %}
           {% endif %}
-        </b></p>
+        </p>
       </div>
     </div>
 
