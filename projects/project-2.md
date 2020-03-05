@@ -16,10 +16,8 @@ summary: Primarily responsible to develop a web application for Single Cell RNA-
 
 <img class="ui medium right floated rounded image" src="../images/scwiz.PNG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+While working as a Research Intern at Beth Israel Deaconess Medical Center / Harvard Medical School, Boston, I gained substantial knowledge in Single Cell Genomics as well as various Bioinformatic tools and pipelines. I was primarily responsible to work on to design and develop a scRNA-seq pre-processing pipeline using Perl/Python/R and BASH to process raw FASTQ files into feature-barcode matrices and perform pre-processing, data normalization, quality control to differentially expressed genes, annotation of clusters and final visualization. I have also developed tools like FASTQ de-multiplexer, barcode cleaner and filtering low quality reads, which I was able to benchmark against with the existing Alona sc-RNA-seq pipeline tools to see positive difference between my tools and the Alona’s. Finally, I wrapped the whole pipeline up into a web tool using PHP with email support to send output to the user when the job is finished.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with single cell omics, work-flow and web application design and associated technologies.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://bhasinlab.us/scw_page/scwiz.php">Single Cell Wizard</a>
