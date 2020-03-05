@@ -172,8 +172,8 @@
       "organization": "Bhasin Lab",
       "website": "https://bhasinlab.us/scw_page/scwiz.php",
       "position": "Single Cell Wizard",
-      "startDate": "2019-08-01",
-      "endDate": "2019-12-19",
+      "startDate": "August 2019",
+      "endDate": "December 2019",
       "summary": "Single Cell RNA-seq pre/post processing pipeline",
       "highlights": [
         "SCWiz is a comprehensive Single Cell RNA-Seq processing pipeline which is a totally automated platform that can take raw FASTQ files, process them to generate feature barcode matrices and perform pre-processing, data normalization, quality control to differentially expressed genes, annotation of clusters and final visualization",
@@ -183,8 +183,8 @@
       "organization": "Northeastern University",
       "website": "",
       "position": "Indian Ayurvedic Bioflavonoids Database",
-      "startDate": "2019-01-10",
-      "endDate": "2019-03-24",
+      "startDate": "January 2019",
+      "endDate": "March 2019",
       "summary": "",
       "highlights": [
       "Compiled over 100 plant metabolites in Ayurvedic formulations and forming up an interactome which could serve as a lead for potential drug targets that can be taken up for clinical trials",
