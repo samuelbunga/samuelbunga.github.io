@@ -180,34 +180,18 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "Northeastern University",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Indian Ayurvedic Bioflavonoids Database",
+      "startDate": "2019-01-10",
+      "endDate": "2019-03-24",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "Compiled over 100 plant metabolites in Ayurvedic formulations and forming up an interactome which could serve as a lead for potential drug targets that can be taken up for clinical trials",
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Single Cell Wizard",
-      "website": "https://bhasinlab.us/scw_page/scwiz.php",
-      "date": "2019-09-01-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
