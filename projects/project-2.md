@@ -5,6 +5,7 @@ image: images/bidmc_square.jpg
 title: Research Intern
 permalink: projects/bhasinlab
 # All dates must be YYYY-MM-DD format!
+date: "May 2019 - Dec 2019"
 labels:
   - Perl
   - Python
