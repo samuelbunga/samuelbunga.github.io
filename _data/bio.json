@@ -118,10 +118,10 @@
   "education": [
     {
       "institution": "Northeastern University, Boston, MA",
-      "area": "Bioinformatics (expected Spring, 2020)",
+      "area": "Bioinformatics",
       "studyType": "M.S.",
-      "startDate": "2018-09-07",
-      "endDate": "Present",
+      "startDate": "Expected Spring, 2020",
+      "endDate": "",
       "gpa": "3.73",
       "courses": [
         "Computational Methods – 1 and 2, Bioinformatics Programming, Machine Learning, Data Analytics"
