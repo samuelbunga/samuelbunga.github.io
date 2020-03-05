@@ -133,7 +133,7 @@
       "website": "",
       "startDate": "2019-09-07",
       "endDate": "Present",
-      "summary": "with Dr. Chesley Leslin, Northeastern University, MA",
+      "summary": "Northeastern University, MA",
       "highlights": [
         "Co-supervise and conduct lab sessions for 30 students and held office hours every week",
         "Provide comprehensive academic support and mentored students on individual basis",
@@ -142,12 +142,12 @@
       ]
     },
     {
-      "company": "",
+      "company": "Bhasin Lab/Harvard Medical School",
       "position": "Research Intern",
       "website": "",
       "startDate": "2019-05-01",
       "endDate": "2019-12-19",
-      "summary": "Bhasin Lab/Harvard Medical School, Boston, MA",
+      "summary": "Boston, MA",
       "highlights": [
         "Designed and developed a free open web application (Single Cell Wizard) for processing of Single Cell pair-end raw FASTQ files processed either by following 10X, CelSeq or DropSeq protocols and for single-end SRA files to generate feature-barcode matrices. The generated Matrix file can be taken up for clustering and GEA",
         "Worked to develop 4 in house dependency tools for Single Cell Wizard pipeline like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
@@ -156,11 +156,11 @@
       ]
     },
     {
-      "company": "Data Analyst",
-      "position": "",
+      "company": "E-Virgin e-commerce",
+      "position": "Data Analyst",
       "startDate": "2015-04-01",
       "endDate": "2016-05-01",
-      "summary": "E-Virgin e-commerce, Vishakapatnam, India",
+      "summary": "Vishakapatnam, India",
       "highlights": [
         "Conducted testing, maintenance and monitoring system process using in house and third-party tools and maintained ongoing relations with vendors, conduct product evaluations, participate in vendor selection, negotiating prices",
         ]
