@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/BIDMC.jpg
 title: Single Cell Wizard
 permalink: projects/scwiz
 # All dates must be YYYY-MM-DD format!
