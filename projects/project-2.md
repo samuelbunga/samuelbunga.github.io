@@ -11,10 +11,10 @@ labels:
   - PHP
   - R
   - BASH
-summary: A web application for Single Cell RNA-seq Pre/Post processing pipeline.
+summary: Primarily responsible to develop a web application for Single Cell RNA-seq Pre/Post processing pipeline.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/BIDMC.jpg">
+<img class="ui medium right floated rounded image" src="../images/scwiz.PNG">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
