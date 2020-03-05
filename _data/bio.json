@@ -142,12 +142,12 @@
       ]
     },
     {
-      "company": "Bhasin Lab/Harvard Medical School",
+      "company": "Bhasin Lab",
       "position": "Research Intern",
       "website": "",
       "startDate": "2019-05-01",
       "endDate": "2019-12-19",
-      "summary": "Boston, MA",
+      "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
         "Designed and developed a free open web application (Single Cell Wizard) for processing of Single Cell pair-end raw FASTQ files processed either by following 10X, CelSeq or DropSeq protocols and for single-end SRA files to generate feature-barcode matrices. The generated Matrix file can be taken up for clustering and GEA",
         "Worked to develop 4 in house dependency tools for Single Cell Wizard pipeline like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
