@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/BIDMC.jpg
-title: Single Cell Wizard
-permalink: projects/scwiz
+title: Research Intern
+permalink: projects/bidmc-harvard
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-19
+date: 2019-05-19 - 2019-12-19
 labels:
   - Perl
   - Python
