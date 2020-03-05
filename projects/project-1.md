@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: "`r paste('May 2019 - Dec 2019')`"
+date: "May 2019 - Dec 2019"
 labels:
   - Robotics
   - Arduino
