@@ -5,6 +5,7 @@ image: images/BIDMC.jpg
 title: Research Intern
 permalink: projects/bidmc
 # All dates must be YYYY-MM-DD format!
+date: '2019-05-01'
 labels:
   - Perl
   - Python
