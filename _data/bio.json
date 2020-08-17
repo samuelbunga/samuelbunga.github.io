@@ -1,12 +1,14 @@
 {
   "basics": {
     "name": "Samuel Newton Bunga",
-    "label": "Student",
+    "label": "Bioinformatics Software Developer",
     "picture": "/images/sam.jpg",
     "email": "bunga.s@northeastern.edu",
     "phone": "857-701-9190",
     "website": "https://samuelbunga.github.io",
-    "summary": "Graduate student at Northeastern University studying Bioinformatics, seeking full-time Computational Biologist, Bioinformatics Engineer/Scientist or Software development position in a research organization ",
+    "summary": "Hi! I'm a Bioinformatics Software Developer at Harvard Medical School. I am working on to support DARPA Panacea project which aims\
+ in developing therapeutic drugs to block pain and inflammation using novel pharmacological platforms. My primary responsibilities are to develop and maintain\
+existing RNA-Seq bulk/single-cell pipelines and also to develop new modules and integrate them into the pipelines using INDRA modelling systems developed at LSP.",
     "location": {
       "address": "",
       "postalCode": "02120",
