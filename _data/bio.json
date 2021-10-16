@@ -39,17 +39,12 @@
       ]
     },
     {
-      "name": "NGS",
+      "name": "Network inference",
       "keywords": [
       ]
     },
     {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Analytics",
+      "name": "Bioinformatics software development",
       "keywords": [
       ]
     }
@@ -60,48 +55,9 @@
       "level": "",
       "keywords": [
         "Python",
-        "Perl",
-        "PHP",
         "R",
         "Linux Shell Scripting",
-        "json"
-      ]
-    },
-     {
-      "name": "Genomic Data Analysis",
-      "level": "",
-      "keywords": [
-        "Sinlge Cell",
-        "Comparative Genomics",
-        "Genome Assembly",
-        "Transcriptomics",
-        "GWAS",
-      ]
-    },
-    {
-      "name": "Frameworks/Libraries",
-      "level": "",
-      "keywords": [
-        "Pandas",
-        "numpy",
-        "BioConductor",
-        "dplyr",
-        "Seurat",
-        "BioPython",
-        "BioPerl"
-      ]
-    },
-    {
-      "name": "Bioinformatics tools",
-      "level": "",
-      "keywords": [
-        "Cell Ranger(10X)",
-        "GATK",
-        "UMI-Tools",
-        "samtools",
-        "hisat-2",
-        "STAR",
-        "FastP"
+        "PHP"
       ]
     },
     {
