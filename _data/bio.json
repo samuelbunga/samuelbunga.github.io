@@ -129,11 +129,31 @@
   ],
   "work": [
     {
+      "company": "Harvard Program in Therapeutic Science (HiTS)",
+      "position": "Bioinformatics Software Developer",
+      "website": "",
+      "startDate": "August 2020",
+      "endDate": "Present",
+      "summary": "Harvard Medical School, Boston, MA",
+      "highlights": [
+        "Developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
+        "Designed a work-flow for COSMOS to integrate and connect data from different omic (Transcription factors and Kinases) datasets to make network level causal reasoning for Phospho Proteomics and Transcriptomics CFA and Naïve sciatic nerve samples",
+        "Designed workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively and used Seurat to work on the downstream analysis to integrate various pain model samples and performed pseudo-bulk analysis to study the gene expression profiles from samples for each cluster",
+        "Contributed code and maintained bulk and single-cell RNA-Seq pipelines for the bioinformatics core team at Boston Childrens Hospital",
+        "Processed and analyzed over 12 bulk RNA-Seq projects using for the BCH bioinformatics core",
+        "Contributed code in fixing bugs and making significant improvements to CXP-lite (Profiling neuronal activity from fluorescence imaging data) tool which potentially saved hours of work for researchers at Woolf lab",
+        "Wrote a R package called fastGene for personal use, which performs human to mouse and vice versa gene-orthologue mapping locally which is significantly faster than the BioMart R package",
+        "Currently working on a Pain project in developing R Shiny web application to visualize gene expressions and also to make fold change comparisons between different primary mouse tissues like DRG, Brain, Heart and Spinal Cord",
+      ]
+      
+    }
+    ,
+    {
       "company": "Computational Methods-2",
       "position": "Graduate Teaching Assistant",
       "website": "",
       "startDate": "September 2019",
-      "endDate": "Present",
+      "endDate": "April 2020",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
         "Co-supervise and conduct lab sessions for 30 students and held office hours every week",
@@ -155,16 +175,6 @@
         "Assembled and created a Database for Gene expression markers that define cell types which can be used to annotate clusters of single cells via Gene Set Enrichment Analysis",
         "Built a workflow to merge up to 30 in house and public Single Cell Datasets of Human and Mice using Seurat",
       ]
-    },
-    {
-      "company": "E-Virgin e-commerce",
-      "position": "Data Analyst",
-      "startDate": "April 2015",
-      "endDate": "May 2016",
-      "summary": "Vishakapatnam, India",
-      "highlights": [
-        "Conducted testing, maintenance and monitoring system process using in house and third-party tools and maintained ongoing relations with vendors, conduct product evaluations, participate in vendor selection, negotiating prices",
-        ]
     },
   ],
   "volunteer": [
