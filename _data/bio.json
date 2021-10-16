@@ -75,11 +75,22 @@
       "institution": "Northeastern University, Boston, MA",
       "area": "Bioinformatics",
       "studyType": "M.S.",
-      "startDate": "Expected Spring, 2020",
-      "endDate": "",
+      "startDate": "August 2018",
+      "endDate": "May 2020",
       "gpa": "3.73",
       "courses": [
         "Computational Methods – 1 and 2, Bioinformatics Programming, Machine Learning, Data Analytics"
+      ]
+    },
+    {
+      "institution": "GITAM University, Vishakhapatnam, India",
+      "area": "Bioinformatics",
+      "studyType": "M.S.",
+      "startDate": "March 2018 *",
+      "endDate": "",
+      "gpa": "3.7",
+      "courses": [
+        "Basic Programming in C, Biological Databases, Cancer Biology, Immunology"
       ]
     }
   ],
