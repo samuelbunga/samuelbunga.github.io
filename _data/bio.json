@@ -61,6 +61,12 @@
       ]
     },
     {
+      "name": "Bioinformatics tools",
+      "level": "",
+      "keywords": ["Seurat", "DESeq2", "INDRA", "trimmomatic", "fastQC", "FastP", "STAR", "samtools", "Salmon", "featureCounts", "TPMCalculator", 
+                   "ScanPy", "GSEA", "IGV"]
+    },
+    {
       "name": "Development tools/Platform",
       "level": "",
       "keywords": [
@@ -69,6 +75,7 @@
         "AWS"
       ]
     }
+    
   ],
   "education": [
     {
@@ -104,13 +111,14 @@
       "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
         "Developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
-        "Designed a work-flow using COSMOS to integrate and connect data from different omic (Transcription factors and Kinases) datasets to make network level causal reasoning for Phospho Proteomics and Transcriptomics CFA and Naïve sciatic nerve samples",
-        "Designed workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively and used Seurat to work on the downstream analysis to integrate various mouse pain model samples and performed pseudo-bulk analysis to study the gene expression profiles from samples for each cluster",
+        "Built a workflow using COSMOS to integrate and connect data from different omic (Phospho-proteomics and Transcriptomics) datasets to make network level causal reasoning in CFA and Naïve sciatic nerve samples (github.com/samuelbunga/panacea_indra/tree/master/proteomics/cosmos/scripts)",
+        "Created workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively",
         "Contributed code and maintained bulk and single-cell RNA-Seq pipelines for the bioinformatics core team at Boston Childrens Hospital",
-        "Processed and analyzed over 12 bulk RNA-Seq projects for the BCH bioinformatics core",
-        "Contributed code in fixing bugs and making significant improvements to CXP-lite (Profiling neuronal activity from fluorescence imaging data) tool which potentially saved hours of work for researchers at Woolf lab",
-        "Wrote a R package called fastGene for personal use, which performs human to mouse and vice versa gene-orthologue mapping locally which is significantly faster than the BioMart R package",
-        "Currently working on a Pain project in developing R Shiny web application to visualize gene expressions and also to make fold change comparisons between different primary mouse tissues like DRG, Brain, Heart and Spinal Cord",
+        "Processed and analyzed over 12 bulk and 4 single-cell RNA-Seq projects for the BCH bioinformatics core",
+        "Contributed code in fixing bugs and making significant improvements to CXP-lite (Python GUI tool for profiling neuronal activity from fluorescence imaging data) which potentially saved hours of work for researchers at Woolf lab (github.com/samuelbunga/cxp-lite)",
+        "Wrote an R package called fastGene for personal use, which performs human to mouse and vice versa gene-orthologue mapping locally which is significantly faster than the BioMart R package (github.com/samuelbunga/fastGene)",
+        "Built a Python based CLI tool to perform GSEA analysis on DESeq2 and Seurat DE genes files (github.com/samuelbunga/GSEApy)",
+        "Currently working on a Pain project in developing R Shiny web application to visualize gene expressions and also to make fold change comparisons between different primary mouse tissues like DRG, Brain, Heart and Spinal Cord"
       ]
       
     }
@@ -137,10 +145,9 @@
       "endDate": "December 2019",
       "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
-        "Designed and developed a free open web application (Single Cell Wizard) for processing of Single Cell pair-end raw FASTQ files processed either by following 10X, CelSeq or DropSeq protocols and for single-end SRA files to generate feature-barcode matrices. The generated Matrix file can be taken up for clustering and GEA",
-        "Worked to develop 4 in house dependency tools for Single Cell Wizard pipeline like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
-        "Assembled and created a Database for Gene expression markers that define cell types which can be used to annotate clusters of single cells via Gene Set Enrichment Analysis",
-        "Built a workflow to merge up to 30 in house and public Single Cell Datasets of Human and Mice using Seurat",
+        "Designed and developed a free open source web application called Single Cell Wizard (github.com/samuelbunga/Single_Cell_Wizard) which is a comprehensive and a totally automated Single Cell RNA-Seq pipeline to process FASTQ files of different libraries like 10X, CelSeq or DropSeq which performs count matrix generation, pre-processing, data normalization, quality control, differential gene expression, annotation of clusters and final visualization",
+        "Built tools for RNA-Seq analysis like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
+        "Assembled and created a Database for Gene expression markers that define cell types which can be used to annotate clusters of single cells via Gene Set Enrichment Analysis"
       ]
     },
   ],
