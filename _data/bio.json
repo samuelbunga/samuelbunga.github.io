@@ -105,7 +105,7 @@
       "highlights": [
         "Developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
         "Designed a work-flow using COSMOS to integrate and connect data from different omic (Transcription factors and Kinases) datasets to make network level causal reasoning for Phospho Proteomics and Transcriptomics CFA and Naïve sciatic nerve samples",
-        "Designed workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively and used Seurat to work on the downstream analysis to integrate various pain model samples and performed pseudo-bulk analysis to study the gene expression profiles from samples for each cluster",
+        "Designed workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively and used Seurat to work on the downstream analysis to integrate various mouse pain model samples and performed pseudo-bulk analysis to study the gene expression profiles from samples for each cluster",
         "Contributed code and maintained bulk and single-cell RNA-Seq pipelines for the bioinformatics core team at Boston Childrens Hospital",
         "Processed and analyzed over 12 bulk RNA-Seq projects for the BCH bioinformatics core",
         "Contributed code in fixing bugs and making significant improvements to CXP-lite (Profiling neuronal activity from fluorescence imaging data) tool which potentially saved hours of work for researchers at Woolf lab",
