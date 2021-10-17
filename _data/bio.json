@@ -107,7 +107,7 @@
         "Designed a work-flow using COSMOS to integrate and connect data from different omic (Transcription factors and Kinases) datasets to make network level causal reasoning for Phospho Proteomics and Transcriptomics CFA and Naïve sciatic nerve samples",
         "Designed workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively and used Seurat to work on the downstream analysis to integrate various pain model samples and performed pseudo-bulk analysis to study the gene expression profiles from samples for each cluster",
         "Contributed code and maintained bulk and single-cell RNA-Seq pipelines for the bioinformatics core team at Boston Childrens Hospital",
-        "Processed and analyzed over 12 bulk RNA-Seq projects using for the BCH bioinformatics core",
+        "Processed and analyzed over 12 bulk RNA-Seq projects for the BCH bioinformatics core",
         "Contributed code in fixing bugs and making significant improvements to CXP-lite (Profiling neuronal activity from fluorescence imaging data) tool which potentially saved hours of work for researchers at Woolf lab",
         "Wrote a R package called fastGene for personal use, which performs human to mouse and vice versa gene-orthologue mapping locally which is significantly faster than the BioMart R package",
         "Currently working on a Pain project in developing R Shiny web application to visualize gene expressions and also to make fold change comparisons between different primary mouse tissues like DRG, Brain, Heart and Spinal Cord",
