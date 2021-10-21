@@ -63,7 +63,7 @@
     {
       "name": "Bioinformatics tools",
       "level": "",
-      "keywords": ["Seurat", "DESeq2", "INDRA", "trimmomatic", "fastQC", "FastP", "STAR", "samtools", "Salmon", "featureCounts", "TPMCalculator", 
+      "keywords": ["Seurat", "DESeq2", "INDRA", "COSMOS", "trimmomatic", "fastQC", "FastP", "STAR", "samtools", "Salmon", "featureCounts", "TPMCalculator", 
                    "ScanPy", "GSEA", "IGV"]
     },
     {
