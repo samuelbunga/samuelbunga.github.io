@@ -109,7 +109,7 @@
       "endDate": "Present",
       "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
-        "Developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
+        "Collaboratively developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
         "Built a workflow using COSMOS to integrate and connect data from different omic (Phospho-proteomics and Transcriptomics) datasets to make network level causal reasoning in CFA and Naïve sciatic nerve samples (github.com/samuelbunga/panacea_indra/tree/master/proteomics/cosmos/scripts)",
         "Created workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively",
         "Contributed code and maintained bulk and single-cell RNA-Seq pipelines for the bioinformatics core team at Boston Childrens Hospital",
