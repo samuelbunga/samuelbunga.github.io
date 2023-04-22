@@ -74,11 +74,11 @@
   ],
   "work": [
     {
-      "company": "Illumina, Inc.",
+      "company": "",
       "position": "Bioinformatics Scientist 2",
       "startDate": "February 2022",
       "endDate": "Present",
-      "summary": "San Diego, CA",
+      "summary": "Illumina, Inc., San Diego, CA",
       "highlights": [
         "Worked on contributing code and developing Apps like GISAID uploader, Microbiome Metagenomics, Microbial Enrichment Analysis, DRAGEN COVID Lineage, DRAGEN Viral Lineage and DRAGEN Targeted Microbial",
         "Developed various Python modules which are being used internally in different DRAGEN Apps"
