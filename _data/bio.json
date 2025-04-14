@@ -80,10 +80,10 @@
       "endDate": "Present",
       "summary": "Illumina, Inc., San Diego, CA",
       "highlights": [
-        "Contributed to the development of multiple bioinformatics applications, including GISAID Uploader, Microbiome Metagenomics, Microbial Enrichment Analysis, DRAGEN COVID Lineage, DRAGEN Viral Lineage, and DRAGEN Targeted Microbial",
-        "Designed and implemented reusable Python modules integrated across various DRAGEN pipelines, enhancing functionality and performance of internal tools",
         "Developed bioinformatics infectious disease applications for the MiSeq i100 instrument",
-        "Possess extensive experience in designing, developing, and optimizing Nextflow pipelines for high-throughput analysis workflows"
+        "Possess extensive experience in designing, developing, and optimizing Nextflow pipelines for high-throughput analysis workflows",
+        "Contributed to the development of multiple bioinformatics applications, including GISAID Uploader, Microbiome Metagenomics, Microbial Enrichment Analysis, DRAGEN COVID Lineage, DRAGEN Viral Lineage, and DRAGEN Targeted Microbial",
+        "Designed and implemented reusable Python modules integrated across various DRAGEN pipelines, enhancing functionality and performance of internal tools"
       ]
     },
     {
