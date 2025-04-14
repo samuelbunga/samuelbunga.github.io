@@ -9,8 +9,8 @@
     "summary": "Hi! I'm a Bioinformatics Software Developer at Harvard Medical School. I am working on supporting the DARPA Panacea project which aims in developing new therapeutic drugs to block pain and inflammation using novel pharmacological platforms. My primary responsibilities are to develop and maintain existing RNA-Seq bulk/single-cell pipelines and also to develop new modules and integrate them into the pipelines using INDRA modeling systems developed at the Laboratory of Systems Pharmacology (LSP).",
     "location": {
       "address": "",
-      "postalCode": "02130",
-      "city": "Boston",
+      "postalCode": "92122",
+      "city": "San Diego",
       "countryCode": "USA",
       "region": "Massachusetts"
     },
@@ -80,8 +80,10 @@
       "endDate": "Present",
       "summary": "Illumina, Inc., San Diego, CA",
       "highlights": [
-        "Worked on contributing code and developing Apps like GISAID uploader, Microbiome Metagenomics, Microbial Enrichment Analysis, DRAGEN COVID Lineage, DRAGEN Viral Lineage and DRAGEN Targeted Microbial",
-        "Developed various Python modules which are being used internally in different DRAGEN Apps"
+        "Contributed to the development of multiple bioinformatics applications, including GISAID Uploader, Microbiome Metagenomics, Microbial Enrichment Analysis, DRAGEN COVID Lineage, DRAGEN Viral Lineage, and DRAGEN Targeted Microbial",
+        "Designed and implemented reusable Python modules integrated across various DRAGEN pipelines, enhancing functionality and performance of internal tools",
+        "Developed bioinformatics infectious disease applications for the MiSeq i100 instrument",
+        "Possess extensive experience in designing, developing, and optimizing Nextflow pipelines for high-throughput analysis workflows"
       ]
     },
     {
@@ -93,10 +95,10 @@
       "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
         "Developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
-        "Designed and developed a workflow using COSMOS to integrate and connect data from different omic (Phospho-proteomics and Transcriptomics) datasets to make network level causal reasoning in CFA and Naïve sciatic nerve samples (github.com/samuelbunga/panacea_indra/tree/master/proteomics/cosmos/scripts)",
-        "Created workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively",
-        "Contributed code and maintained bulk and single-cell RNA-Seq pipelines for the bioinformatics core team at Boston Childrens Hospital",
-        "•	Contributed code in fixing bugs and making significant improvements to CXP-lite (Profiling neuronal activity from fluorescence imaging data) tool which potentially saved hours of work for researchers at Woolf lab"
+        "Designed and developed a workflows using COSMOS to integrate and connect data from different omic (Phospho-proteomics and Transcriptomics) datasets to make network level causal reasoning in CFA and Naïve sciatic nerve samples",
+        "Built preprocessing workflows for inDrops and 10x single-cell RNA-Seq data using bcbio and CellRanger, respectively",
+        "Maintained and improved bulk and single-cell RNA-Seq pipelines for the Boston Children’s Hospital bioinformatics core",
+        "Contributed to and enhanced CXP-lite, a neuronal activity profiling tool, significantly improving performance and reducing manual effort for the Woolf Lab"
       ]
       
     }
@@ -109,9 +111,9 @@
       "endDate": "April 2020",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
-        "Co-supervise and conduct lab sessions for 30 students and held office hours every week",
-        "Provide comprehensive academic support and mentored students on individual basis",
-        "Conduct and evaluate student quizzes and assignments",
+        "Led weekly lab sessions and office hours, supporting a cohort of 30 students in computational techniques and programming concepts",
+        "Provided individualized academic mentorship and guidance on course material and coding assignments",
+        "Conduct and evaluate student quizzes and assignments"
       ]
     },
     {
@@ -122,7 +124,7 @@
       "endDate": "December 2019",
       "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
-        "Designed and developed a free to use web application (Single Cell Wizard) for processing 10X, CelSeq or DropSeq Single Cell samples",
+        "Designed and developed Single Cell Wizard, a free web application for processing 10X, CEL-Seq, and Drop-Seq single-cell RNA-Seq data.",
         "Developed home brew tools for Single Cell Wizard pipeline like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
         "Assembled and created a Database for Gene expression markers that define cell types which can be used to annotate clusters of single cells via Gene Set Enrichment Analysis"
       ]
