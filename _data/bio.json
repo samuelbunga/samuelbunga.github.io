@@ -3,7 +3,7 @@
     "name": "Samuel Bunga",
     "label": "Bioinformatics Software Developer",
     "picture": "/images/sam.jpg",
-    "email": "bunga.s@northeastern.edu",
+    "email": "sambunga094@gmail.com",
     "phone": "857-701-9190",
     "website": "https://samuelbunga.github.io",
     "summary": "Hi! I'm a Bioinformatics Software Developer at Harvard Medical School. I am working on supporting the DARPA Panacea project which aims in developing new therapeutic drugs to block pain and inflammation using novel pharmacological platforms. My primary responsibilities are to develop and maintain existing RNA-Seq bulk/single-cell pipelines and also to develop new modules and integrate them into the pipelines using INDRA modeling systems developed at the Laboratory of Systems Pharmacology (LSP).",
@@ -12,7 +12,7 @@
       "postalCode": "92122",
       "city": "San Diego",
       "countryCode": "USA",
-      "region": "Massachusetts"
+      "region": "California"
     },
     "profiles": [
       {
@@ -68,7 +68,7 @@
       "endDate": "May 2020",
       "gpa": "3.73",
       "courses": [
-        "Computational Methods – 1 and 2, Bioinformatics Programming, Machine Learning, Data Analytics"
+        ""
       ]
     },
   ],
@@ -82,8 +82,8 @@
       "highlights": [
         "Developed bioinformatics infectious disease applications for the MiSeq i100 instrument",
         "Possess extensive experience in designing, developing, and optimizing Nextflow pipelines for high-throughput analysis workflows",
-        "Contributed to the development of multiple bioinformatics applications, including GISAID Uploader, Microbiome Metagenomics, Microbial Enrichment Analysis, DRAGEN COVID Lineage, DRAGEN Viral Lineage, and DRAGEN Targeted Microbial",
-        "Designed and implemented reusable Python modules integrated across various DRAGEN pipelines, enhancing functionality and performance of internal tools"
+        "Contributed to the development of multiple bioinformatics applications, including DRAGEN Microbial Enrichment Plus, 16S Metagenomics, Microbiome Metagenomics/Metatranscriptomics, DRAGEN COVID Lineage, DRAGEN Viral Lineage etc.",
+        "Designed reusable Nextflow and Python modules which are integrated across various DRAGEN pipelines, improving functionality and performance of internal tools"
       ]
     },
     {
@@ -94,11 +94,11 @@
       "endDate": "February 2022",
       "summary": "Harvard Medical School, Boston, MA",
       "highlights": [
-        "Developed Neuro Immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
-        "Designed and developed a workflows using COSMOS to integrate and connect data from different omic (Phospho-proteomics and Transcriptomics) datasets to make network level causal reasoning in CFA and Naïve sciatic nerve samples",
-        "Built preprocessing workflows for inDrops and 10x single-cell RNA-Seq data using bcbio and CellRanger, respectively",
+        "Developed Neuro-immune interactome pipeline using Nextflow and Python to study the interactions in different mouse pain models between Immune cell ligands and Neuron receptors using INDRA network and cellphonedb (github.com/indralab/panacea_indra)",
+        "Designed a work-flow using COSMOS to integrate and connect data from different omic (Transcription factors and Kinases) datasets to make network level causal reasoning for Phospho Proteomics and Transcriptomics CFA and Naïve sciatic nerve samples",
+        "Designed workflows for pre-processing in-Drops and 10X single-cell RNA-Seq raw samples using bcbio pipelines and cellranger respectively and used Seurat to work on the downstream analysis to integrate various mouse pain model samples and performed pseudo-bulk analysis to study the gene expression profiles from samples for each cluster",
         "Maintained and improved bulk and single-cell RNA-Seq pipelines for the Boston Children’s Hospital bioinformatics core",
-        "Contributed to and enhanced CXP-lite, a neuronal activity profiling tool, significantly improving performance and reducing manual effort for the Woolf Lab"
+        "Maintained code and made significant improvements to CXP-lite (Profiling neuronal activity from fluorescence imaging data) tool which potentially saved hours of work for researchers at Woolf lab (github.com/samuelbunga/cxp-lite)"
       ]
       
     }
@@ -112,8 +112,9 @@
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
         "Led weekly lab sessions and office hours, supporting a cohort of 30 students in computational techniques and programming concepts",
-        "Provided individualized academic mentorship and guidance on course material and coding assignments",
-        "Conduct and evaluate student quizzes and assignments"
+        "Provide comprehensive academic support and mentored students on individual basis",
+        "Designed, conducted, and evaluated quizzes and assignments",
+        
       ]
     },
     {
@@ -132,25 +133,25 @@
   ],
   "volunteer": [
     {
-      "organization": "Bhasin Lab",
-      "website": "https://bhasinlab.us/scw_page/scwiz.php",
-      "position": "Single Cell Wizard",
-      "startDate": "August 2019",
-      "endDate": "December 2019",
-      "summary": "Single Cell RNA-seq pre/post processing pipeline",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "1. Roos M, Bunga S, Tan A, Maissy E, Skola D, Richter A, Whittaker DS, Desplats P, Zarrinpar A, Conrad R, Kuersten S.2025.Optimizing mouse metatranscriptome profiling by selective removal of redundant nucleic acid sequences. mSystems10:e00167-25.https://doi.org/10.1128/msystems.00167-25",
       "highlights": [
-        "Single Cell Wizard is a comprehensive Single Cell RNA-Seq processing web-application which is a totally automated pipeline that can take raw FASTQ files, process them to generate feature barcode matrices and perform pre-processing, data normalization, quality control to differentially expressed genes, annotation of clusters and final visualization",
+        "",
       ]
     },
     {
-      "organization": "Northeastern University",
+      "organization": "",
       "website": "",
-      "position": "Indian Ayurvedic Bioflavonoids Database",
-      "startDate": "January 2019",
-      "endDate": "March 2019",
-      "summary": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "2. Jain, A., Gyori, B.M., Hakim, S. et al. Nociceptor-immune interactomes reveal insult-specific immune signatures of pain. Nat Immunol 25, 1296–1305 (2024). https://doi.org/10.1038/s41590-024-01857-2",
       "highlights": [
-      "Compiled over 100 plant metabolites in Ayurvedic formulations and forming up an interactome which could serve as a lead for potential drug targets that can be taken up for clinical trials",
+        "",
       ]
     }
   ],
