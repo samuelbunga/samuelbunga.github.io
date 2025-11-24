@@ -72,8 +72,8 @@
   "work": [
     {
       "company": "",
-      "position": "Bioinformatics Scientist 2",
-      "startDate": "February 2022",
+      "position": "Sr. Bioinformatics Scientist",
+      "startDate": "November 2025",
       "endDate": "Present",
       "summary": "Illumina, Inc., San Diego, CA",
       "highlights": [
@@ -81,6 +81,16 @@
         "Possess extensive experience in designing, developing, and optimizing Nextflow pipelines for high-throughput analysis workflows",
         "Contributed to the development of multiple bioinformatics applications, including DRAGEN Microbial Enrichment Plus, 16S Metagenomics, Microbiome Metagenomics/Metatranscriptomics, DRAGEN COVID Lineage, DRAGEN Viral Lineage etc.",
         "Designed reusable Nextflow and Python modules which are integrated across various DRAGEN pipelines, improving functionality and performance of internal tools"
+      ]
+    },
+    {
+      "company": "",
+      "position": "Bioinformatics Scientist 2",
+      "startDate": "February 2022",
+      "endDate": "November 2025",
+      "summary": "Illumina, Inc., San Diego, CA",
+      "highlights": [
+        "Leading development of infectious disease bioinformatics applications"
       ]
     },
     {
